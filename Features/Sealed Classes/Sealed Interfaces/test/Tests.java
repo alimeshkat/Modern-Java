@@ -1,10 +1,11 @@
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-public class Tests {
+import static org.junit.jupiter.api.Assertions.fail;
+
+class Tests {
   @Test
-  public void testSolution() {
+  void testSolution() {
     // put your test here
-    Assert.fail("Tests not implemented for the task");
+    fail("Tests not implemented for the task");
   }
 }
