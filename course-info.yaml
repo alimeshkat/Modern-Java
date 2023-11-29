@@ -1,0 +1,9 @@
+type: marketplace
+title: Modern Java
+language: English
+summary: |-
+  This is a Java course for Java developers who want to learn the latest features of Java.
+programming_language: Java
+content:
+  - Features
+  - APIs
